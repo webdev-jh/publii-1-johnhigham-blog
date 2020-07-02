@@ -1,0 +1,59 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "JohnHigham.blog",
+    "description": "",
+    "home_page_url": "https://webdev-jh.github.io/publii-1-johnhigham-blog",
+    "feed_url": "https://webdev-jh.github.io/publii-1-johnhigham-blog/feed.json",
+    "user_comment": "",
+    "icon": "https://webdev-jh.github.io/publii-1-johnhigham-blog/media/website/JohnHigham-Logo-HW-T-300x50-JH-200702-v3.png",
+    "author": {
+        "name": "John Higham"
+    },
+    "items": [
+        {
+            "id": "https://webdev-jh.github.io/publii-1-johnhigham-blog/so-many-methods-so-many-flavours/",
+            "url": "https://webdev-jh.github.io/publii-1-johnhigham-blog/so-many-methods-so-many-flavours/",
+            "title": "So many methods, so many flavours",
+            "summary": "Which method should I chose among all those which are available today? There are indeed so many methods to chose from.",
+            "content_html": "<p>Which method should I chose among all those which are available today?</p>\n<p>There are indeed so many methods to chose from.</p>",
+            "image": "https://webdev-jh.github.io/publii-1-johnhigham-blog/media/posts/3/ice-cream-4courses-4site.jpg",
+            "author": {
+                "name": "John Higham"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-07-02T20:35:21+02:00",
+            "date_modified": "2020-07-02T20:35:21+02:00"
+        },
+        {
+            "id": "https://webdev-jh.github.io/publii-1-johnhigham-blog/why-is-tailoring-so-important/",
+            "url": "https://webdev-jh.github.io/publii-1-johnhigham-blog/why-is-tailoring-so-important/",
+            "title": "Why is tailoring so important",
+            "summary": "Adapting a method is an essential part of working correctly with it in a specific environment. This is know as tailoring. ",
+            "content_html": "<p>Adapting a method is an essential part of working correctly with it in a specific environment.</p>\n<p>This is know as tailoring.</p>\n<p> </p>",
+            "image": "https://webdev-jh.github.io/publii-1-johnhigham-blog/media/posts/2/tailoring-chalk-4site.jpg",
+            "author": {
+                "name": "John Higham"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-07-02T20:35:21+02:00",
+            "date_modified": "2020-07-02T20:35:21+02:00"
+        },
+        {
+            "id": "https://webdev-jh.github.io/publii-1-johnhigham-blog/test-post/",
+            "url": "https://webdev-jh.github.io/publii-1-johnhigham-blog/test-post/",
+            "title": "Test post",
+            "summary": "this is a simple test post to check what it looks like",
+            "content_html": "this is a simple test post to check what it looks like",
+            "image": "https://webdev-jh.github.io/publii-1-johnhigham-blog/media/posts/1/ab-working-bees-on-honeycells-4site.jpg",
+            "author": {
+                "name": "John Higham"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-07-02T20:35:21+02:00",
+            "date_modified": "2020-07-02T20:35:21+02:00"
+        }
+    ]
+}
